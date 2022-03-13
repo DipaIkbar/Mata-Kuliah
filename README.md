@@ -1,2 +1,1 @@
-# Mata-Kuliah
-Komputer Grafik
+# Komputer Grafik
